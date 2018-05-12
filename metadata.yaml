@@ -1,0 +1,27 @@
+_repo: The-Motor-Maids-by-Palm-and-Pine_36320
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 36320-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Stokes, Katherine
+    gutenberg_agent_id: '5049'
+    url: http://www.gutenberg.org/2009/agents/5049
+description: ''
+gutenberg_issued: '2011-06-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36320'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Automobiles -- Juvenile fiction'
+- !lcsh 'Palm Beach (Fla.) -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Voyages and travels -- Juvenile fiction'
+- !lcsh 'Inheritance and succession -- Juvenile fiction'
+title: The Motor Maids by Palm and Pine
+url: http://www.gutenberg.org/ebooks/36320
